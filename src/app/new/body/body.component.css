@@ -1,0 +1,17 @@
+.text3{
+  margin: 3rem;
+  padding: 3rem;
+  }
+  h2{
+  padding: 0.5rem;
+
+  }
+  .parrafo{
+  margin: -0.8rem;
+  padding: 1rem;
+  }
+  .container{
+    border: 5px black;
+    border-radius: 10px;
+    background-color: rgb(225, 225, 225);
+  }
